@@ -9,6 +9,8 @@ Outcome: After successful completion of this practical students will be able to
 •	Database structure, gathering required data 
 
 E-R Diagram:
+
+
 ![image](https://user-images.githubusercontent.com/29852735/114341470-7cac1d00-9b77-11eb-8aa1-cb726c1b54c8.png)
  
 Description: 1. Entity sets include DOCTOR, PATIENT, BILL and ROOM
